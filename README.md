@@ -1,5 +1,5 @@
 ## Olá eu sou o Caio, seja bem-vindo(a)!
-<div align="center">
+<div align="center" style="display: inline_block">
   <a href="https://github.com/caiogramos">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=caiogramos&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=caiogramos&layout=compact&langs_count=7&theme=dracula"/>
@@ -13,7 +13,7 @@
   
   ##
  
-<divstyle="display: inline_block"> 
+<div style="display: inline_block"> 
   <a href = "mailto:caioramos1002@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/caio-gonçalves-ramos-a67938239" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
  
